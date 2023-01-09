@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lập</h1>
 <h3 align="center">I'm a student at University of Information Technology</h3>
-<h4 align="center">Gmail: Phamconglap03@gmail.com or 21522281@gmail.com</h4>
+<h4 align="center">Gmail: Phamconglap03@gmail.com or 21522281@gm.uit.edu.vn</h4>
 <h5 align="center">Have a nice day everyone!</h5>
 
 </div>
