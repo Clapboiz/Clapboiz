@@ -20,14 +20,5 @@
  <h1> </h1>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%" align = "center"/>
  
-| <a href="https://github.com/Clapboiz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Clapboiz's github stats" /></a> | <a href="https://github.com/Clapboiz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=Clapboiz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Clapboiz's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=Clapboiz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
