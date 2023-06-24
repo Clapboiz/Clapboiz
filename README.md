@@ -1,4 +1,4 @@
-# Hi there, I'm Lập 👋 
+# Hi there, I'm Lập, a.k.a. Clap👋 
 
 <p align="left">
   <a href="https://www.facebook.com/phamlap03/" target="_blank">
