@@ -93,9 +93,9 @@
  
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Clapboiz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" width="auto" height="230"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" width="auto" height="180"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=7&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=14&theme=buefy&hide_border=true" width="auto" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=14&theme=buefy&hide_border=true" width="auto" height="200"/>
   </a>
 </div>
