@@ -72,29 +72,14 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
     </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-    </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
@@ -108,9 +93,9 @@
  
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Clapboiz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" width="auto" height="230"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=7&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=14&theme=buefy&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=14&theme=buefy&hide_border=true" width="auto" height="250"/>
   </a>
 </div>
