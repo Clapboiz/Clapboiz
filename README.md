@@ -23,7 +23,7 @@
 ## I'm a student at University of Information Technology: 💻
 ## I'm a cyber security student: 🔒
 
-- 👨‍💻 I am interested in the fields of security, artificial intelligence (AI).
+- 👨‍💻 I am interested in the Web Security, Artificial Intelligence (AI).
 - 👯 If you have any questions or concerns, please do not hesitate to contact me. I would be more than happy to assist you in any way that I can. Thank you for considering me as a resource, and I look forward to the opportunity to connect with you.
   
 <p align="center">Have a nice day 😊</p>
