@@ -51,9 +51,6 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
@@ -96,6 +93,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" width="auto" height="210"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=7&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=8&theme=buefy&hide_border=true" width="auto" height="230"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=10&theme=buefy&hide_border=true" width="auto" height="230"/>
   </a>
 </div>
