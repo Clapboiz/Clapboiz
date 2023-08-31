@@ -75,9 +75,6 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40" />
     </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-    </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
@@ -93,6 +90,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Clapboiz&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true" width="auto" height="210"/>
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=7&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=10&theme=buefy&hide_border=true" width="auto" height="230"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clapboiz&layout=compact&langs_count=12&theme=buefy&hide_border=true" width="auto" height="230"/>
   </a>
 </div>
