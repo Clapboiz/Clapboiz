@@ -1,6 +1,6 @@
 # Hi there, I'm Lập, a.k.a. Clapboiz👋
 ### 🔒 Pentester | 🤖 Security & AI Researcher  
-### 🎓 Cyber Security Graduate – University of Information Technology (UIT)  
+### 🎓 Cyber Security Graduate - University of Information Technology (UIT)  
 
 ---
 
