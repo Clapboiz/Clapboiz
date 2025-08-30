@@ -8,7 +8,7 @@
 - 🔍 **Offensive Security**: Penetration Testing, Red Teaming.
 - 📱 **Application & Cloud Security**: Web, Mobile, and Cloud Security.
 - ⚙️ **DevSecOps**: Integrating security into the software development lifecycle.  
-- 🤖 **AI Research**: Applying AI/ML to enhance cybersecurity solutions.  
+- 🤖 **AI Research**: Applying Machine Learning, Deep Learning, and Reinforcement Learning to enhance cybersecurity solutions.
 
 ---
 
