@@ -4,11 +4,23 @@
 ### 🎓 M.Sc. Student in Information Security - University of Information Technology (UIT)
 ---
 
-💡 **Passionate about exploring and securing the digital world, I specialize in:**  
-- 🔍 **Offensive Security**: Penetration Testing, Red Teaming.
-- 📱 **Application & Cloud Security**: Web, Mobile, and Cloud Security.
-- ⚙️ **DevSecOps**: Integrating security into the software development lifecycle.  
-- 🤖 **AI Research**: Applying Machine Learning, Deep Learning, and Reinforcement Learning to enhance cybersecurity solutions.
+💡 Passionate about exploring and securing the digital world, I specialize in:
+
+🔍 **Offensive Security:** Penetration Testing, Vulnerability Research, and Red Teaming.
+
+📱 **Application & Cloud Security:** Web, Mobile, and Cloud Security.
+
+⚙️ **DevSecOps:** Integrating security into the software development lifecycle.
+
+🤖 **AI Research:** Applying Machine Learning, Deep Learning, Large Language Models (LLMs), and Reinforcement Learning to enhance cybersecurity solutions.
+
+🔗 **GitHub:** https://github.com/Clapboiz
+
+🌐 **Blog:** https://clapboiz.github.io
+
+🔬 **Research & Contributions:**
+- **Google Scholar:** https://scholar.google.com/citations?user=7RZ2mLgAAAAJ
+- **Patchstack:** https://vdp.patchstack.com/researchers/87ef563c-2161-4362-a901-22a99947a0e3/in-review
 
 ---
 
