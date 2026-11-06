@@ -20,7 +20,7 @@
 
 🔬 **Research & Contributions:**
 - **Google Scholar:** https://scholar.google.com/citations?user=7RZ2mLgAAAAJ
-- **Patchstack:** https://vdp.patchstack.com/researchers/87ef563c-2161-4362-a901-22a99947a0e3/in-review
+- **Patchstack:** https://vdp.patchstack.com/database/researchers/87ef563c-2161-4362-a901-22a99947a0e3
 
 ---
 
